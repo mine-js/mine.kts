@@ -1,0 +1,11 @@
+{
+  "name": "@minets/api",
+  "version": "0.0.1",
+  "description": "MineTS's API module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  }
+}
